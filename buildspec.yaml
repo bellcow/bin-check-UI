@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     S3_BUCKET: "bincheckservice"
-APP_NAME: "BinService_GCP"
+APP_NAME: "bin-check-UI"
 BUILD_ENV : "prod"
 
 phases:
